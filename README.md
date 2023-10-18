@@ -5,17 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roufhasan&label=Profile%20views&color=0e75b6&style=flat" alt="roufhasan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://roufhasanhridoy.netlify.app/](https://roufhasanhridoy.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/roufhasan](https://github.com/roufhasan)
 
-- 💬 Ask me about **JavaScript, React, MongoDB**
+- 💬 Ask me about **JavaScript & React.js**
 
 - 📫 How to reach me **roufhasan5@gmail.com**
 
 - ⚡ Fun fact **An introverted guy with a touch of 😇 and a dash of 😈 humor**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
