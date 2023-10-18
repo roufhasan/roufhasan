@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **roufhasan5@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **An introverted guy with a touch of 😇 and a dash of 😈 humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
